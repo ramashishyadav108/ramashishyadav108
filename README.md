@@ -1,63 +1,89 @@
-# 👋 Hi, I'm Ram Ashish Yadav  
-
-🚀 **Data Scientist | AI/ML Engineer | MERN Stack Developer | Data Analyst**  
-
-I’m passionate about solving real-world problems with **AI, Machine Learning, and Full-Stack Development**.  
-I love exploring **data-driven insights** and building **intelligent, scalable applications** deployed on the cloud.  
+<h1 align="center">Hi 👋, I'm Ram Ashish Yadav</h1>
+<h3 align="center">🚀 Data Scientist | AI & ML Engineer | MERN Stack Developer | Data Analyst</h3>
 
 ---
 
-## 🔧 Tech Skills  
+## 🌟 About Me  
+I am a passionate and results-driven professional with expertise in **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Data Analytics**. I enjoy building intelligent systems, crafting efficient solutions, and delivering impactful projects.
 
-### 🖥️ Full Stack Development  
-- Frontend: HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS  
-- Backend: Node.js, Express.js, Flask, FastAPI, Django  
-- Databases: MySQL, PostgreSQL, MongoDB, Firebase  
+---
+
+## 📦 My Skill Set  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💻 Full Stack Development  
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px;">
+<b>Frontend:</b> React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS  
+<b>Backend:</b> Node.js, Express.js, REST APIs, GraphQL  
+<b>Database:</b> MongoDB, MySQL, PostgreSQL  
+<b>Tools:</b> Git, VS Code, Postman
+</div>
+
+</td>
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI & Data Science  
-- Languages: Python, R  
-- ML/DL: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face Transformers  
-- Domains: NLP, Computer Vision, Predictive Analytics  
-- Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+<div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px;">
+<b>Machine Learning:</b> Scikit-learn, XGBoost, Random Forest  
+<b>Deep Learning:</b> TensorFlow, PyTorch, Keras  
+<b>Natural Language Processing:</b> Transformers, BERT, GPT Models  
+<b>Data Handling:</b> Pandas, NumPy, Matplotlib, Seaborn  
+</div>
 
-### ☁️ Cloud & DevOps  
-- AWS (EC2, S3, Lambda), GCP  
-- Docker, GitHub Actions  
-- Deployment: Vercel, Netlify, Heroku  
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" align="center" valign="top">
 
-## 📌 Featured Projects  
+### ☁ Cloud & DevOps  
+<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px;">
+AWS (EC2, S3, Lambda), Azure, Google Cloud Platform  
+Docker, Kubernetes, CI/CD Pipelines  
+Linux Server Management
+</div>
 
-- [🤖 Question Answering System using Transformer Models](https://github.com/ramashishyadav108/Question-Answering-System-using-Transformer-Models)  
-  Built with BERT & RoBERTa on SQuAD v2.0/v3.0 datasets, deployed via Flask.  
+</td>
+<td width="50%" align="center" valign="top">
 
-- [🧑‍💻 Face Recognition Attendance System](https://github.com/ramashishyadav108/Face-Recognition-Attendance-System-using-MediaPipe-and-DeepFace)  
-  Real-time attendance system with 96.5% accuracy using MediaPipe & DeepFace.  
+### 📊 Data Analytics  
+<div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 10px;">
+Data Cleaning & Preprocessing  
+Exploratory Data Analysis (EDA)  
+Data Visualization (Power BI, Tableau, Matplotlib)  
+Business Intelligence Reporting  
+SQL Queries & Optimization
+</div>
 
-- [📦 Diamond Price Prediction](https://github.com/ramashishyadav108/Diamond-Price-Prediction)  
-  ML pipeline predicting diamond prices with Flask deployment.  
-
-- [⚡ Control and Operation of Renewable Energy](https://github.com/ramashishyadav108/Control-and-Operation-of-Renewable-Energy)  
-  ML + Cloud project to forecast renewable energy output.  
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## 🏆 Achievements  
-
-- 🥇 Winner – **Ahouba Hackathon (IIIT Manipur)**  
-- ✅ Solved **800+ algorithmic questions** on various platforms (LeetCode, Codeforces, CodeChef).  
-- 💡 Built multiple end-to-end AI, ML, and Full-Stack applications.  
-
----
-
-## 📫 Connect with Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📂 [Portfolio Website](https://your-portfolio-link.com)  
-- 📝 [Resume](https://drive.google.com/your-resume-link)  
-- 📧 Email: **yourname@example.com**  
+- 🥇 **Winner** – Ahouba Hackathon  
+- 📈 Solved **800+ Algorithmic Problems**  
+- 🚀 Delivered ML models serving **100+ daily queries**
 
 ---
 
-⭐️ *“Turning data into decisions, and ideas into scalable solutions.”*  
+## 📂 Featured Projects  
+- [Question Answering System using Transformer Models](https://github.com/ramashishyadav108/Question-Answering-System-using-Transformer-Models)  
+- [Shipment Price Prediction](https://github.com/ramashishyadav108/Shipment-Price-Prediction)  
+- [Control and Operation of Renewable Energy](https://github.com/ramashishyadav108/Control-and-Operation-of-Renewable-Energy)  
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+<a href="https://www.linkedin.com/in/ramashishyadav108/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ramashishyadav108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/ramashishyadav108" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
