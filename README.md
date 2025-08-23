@@ -1,7 +1,7 @@
 # ✨ Hello World, I'm Ram! 👋  
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Data+Scientist;AI+%26+Machine+Learning;MERN+Stack+Developer;Cloud+Computing;Data+Analytics;Always+Learning+%F0%9F%93%9A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Data+Scientist;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cloud+Computing;Data+Analytics;Always+Learning+%F0%9F%93%9A)
 
 ## 🚀 About Me  
 🎓 **Engineer (CSE)** — India  
