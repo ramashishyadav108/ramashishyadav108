@@ -1,11 +1,11 @@
 # ✨ Hello World, I'm Ram! 👋  
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data+Scientist;AI+%26+ML+Enthusiast;Always+Learning+%F0%9F%93%9A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%F0%9F%93%9A)
 
 ## 🚀 About Me  
 🎓 **Engineer (CSE)** — India  
-💡 **Data Science, AI/ML, MERN, Cloud, Analytics**  
+💡 **Full Stack , AI/ML**  
 🛠 **Building real-world projects** with Python, React, Node.js & Transformers  
 🌱 **Currently exploring:** MLOps, Generative AI, scalable cloud deployments  
 🏆 **Ahouba Hackathon Winner** • **800+ algorithmic problems solved**
@@ -33,6 +33,7 @@
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"><br>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"><br>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"><br>
+      <img src="https://img.shields.io/badge/FastApi-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi"><br>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><br>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
       <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
